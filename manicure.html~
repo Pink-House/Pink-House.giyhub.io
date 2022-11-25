@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title> Manicure Y Pedicure </title>
+<!-- Hoja de estilo proyecto -->
+<link href="css/estilos.css" type="text/css" rel="stylesheet">
+<!-- Hoja de estilo de bootstrap -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+<!-- chat -->
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="40e02945-2907-46b5-9168-df3e18b785ea";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <nav>
+    		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+				  	<div class="container-fluid">
+				    <a class="navbar-brand" href="INDEX.html">
+				    	<img src="img/logo.png" width="100" alt="">
+				    </a>
+				    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				      <span class="navbar-toggler-icon"></span>
+				    </button>
+				    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+				      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+				        <li class="nav-item">
+				          <a class="nav-link active" aria-current="page" href="INDEX.html">Inicio</a>
+				        </li>
+				        <li class="nav-item">
+				          <a class="nav-link" href="productos.html">Productos</a>
+				        </li>
+				         <li class="nav-item">
+				          <a class="nav-link" href="contactenos.html">Contáctenos</a>
+				        </li>
+				       
+				     
+				      </ul>
+				      <form class="d-flex">
+				        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+				        <button class="btn btn-outline-success" type="submit">Search</button>
+				      </form>
+				    </div>
+				  </div>
+</nav>
+    </nav>
+    <section id="contacto">
+		
+		<aside>
+    		<div class="row">
+    		<h2 id="titulo" class="text-center">MANICURE Y PEDICURE<br><br> </h2>
+				<div class="col-lg-6">
+					
+					<img src="img/page6.png"  width="60%"  alt="" >
+							<p id="ti1">Manicure Tradicional <br> $11.000 </p>
+				</div>  
+					
+				<div class="col-lg-6">
+					
+					<img src="img/page4.jpg" width="60%"  alt="">
+					<p id="ti1">Pedicure Tradicional<br> $12.000  </p>
+				</div>   		
+    		</div>
+    </aside>
+		
+		<aside>
+    		<div class="row">
+    		<h3 id="titulo" class="text-center">Manicure y Pedicure Semipermanente</h3>
+    		
+				<div class="col-lg-4">
+					
+					<img src="img/page7.png"  width="65%"  alt="" >
+							<p id="ti">Manicure Semipermanente<br> $33.000</p>
+				</div> 
+				 
+					<div class="col-lg-4">	
+					<img src="img/page8.jpg" width="75%" alt="">
+					<p id="ti">Pedicure Semipermanente<br> $25.000</p>					
+					</div> 
+					
+				<div class="col-lg-4">
+					<img src="img/page9.jpg" width="75%"  alt="">
+					<p id="ti">Retiro de Semipermanente<br> $4.000</p>
+				</div>   		
+    		</div>
+    </aside>
+    
+					<aside>
+    		<div class="row">
+    		<h3 id="titulo" class="text-center">Manicure y Pedicure Acrilico</h3>
+    		
+				<div class="col-lg-4">
+					
+					<img src="img/page12.png"  width="65%"  alt="" >
+							<p id="ti">Manicure Acrilico<br> $60.000</p>
+				</div> 
+				 
+					<div class="col-lg-4">	
+					<img src="img/page10.jpg" width="75%" alt="">
+					<p id="ti">Pedicure Acrilico<br> $25.000</p>					
+					</div> 
+					
+				<div class="col-lg-4">
+					<img src="img/page11.jpg" width="75%"  alt="">
+					<p id="ti">Retiro de Acrilico<br> $10.000</p>
+				</div>
+				
+				<div class="col-lg-4">
+					
+					<img src="img/page13.jpg"  width="65%"  alt="" >
+							<p id="ti">Baño de Acrilico<br>$50.000</p>
+				</div> 
+				
+				<div class="col-lg-4">
+					
+					<img src="img/page14.webp"  width="65%"  alt="" >
+							<p id="ti">Acrilicas Esculpidas<br>$90.000<br></p>
+				</div>
+				
+				<div class="col-lg-4">
+					
+					<img src="img/page15.jpg"  width="65%"  alt="" >
+							<p id="ti">Acrilicas XL<br>$110.000</p>
+				</div> 
+				
+				<div class="col-lg-4">
+					
+					<img src="img/page16.1.jpg"  width="75%"  alt="" >
+							<p id="tit">Acrilicas DUAL SYSTEM<br>$70.000</p>
+				</div>
+				
+				<div class="col-lg-4">
+					
+					<img src="img/page16.webp"  width="65%"  alt="" >
+							<p id="ti">Acrilicas DUAL SYSTEM XL<br>$90.000</p>
+				</div>      		
+    		</div>
+    </aside>    
+    
+</section>
+   <footer>
+    		<p>¿QUE TE DETIENE PARA LUCIR INCREIBLE?
+    		<br>Nuestras puertas estan abiertas de Lunes a Viernes.<br> Desde las 9 A.M -8 P.M   </p>
+    </footer>
+ 
+</div>
+
+
+</body>
+<!-- Script Bootstrap -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+</html>

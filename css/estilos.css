@@ -1,0 +1,184 @@
+body{
+background-image: url(../img/Slide.jpg);
+background-size: 100%;
+background-attachment: fixed;
+font-family: georgia;
+font-size: 15px;
+}
+
+nav{
+	background-color: Black;
+	color: white;
+	padding: 10px;
+	font-size: 20px;
+}
+
+li a {
+	padding: 20px;
+	font-family: georgia;
+	font-size: 23px;
+	color: white;
+}
+
+header{
+	height: 300;
+	color: white;
+}
+
+aside{
+	background-color: black;
+	color: white;
+}
+
+#parr a  {
+	text-align: center;
+	color: blanchedalmond;
+	font-family: Bahnschrift;
+	font-style: Semibold;
+	font-size: 20px;
+}
+
+#parrafo {
+	text-align: center;
+	color: white;
+	font-family: Bahnschrift;
+	font-style: Semibold;
+	font-size: 15px;
+}
+
+#tit{
+	text-align: center;
+	color: white;
+	font-family: Bahnschrift;
+	font-style: Semibold;
+	font-size: 20px;
+
+}
+
+#ti{
+	text-align: center;
+	color: white;
+	font-family: Bahnschrift;
+	font-style: Semibold;
+	font-size: 20px;
+}
+
+#ti1{
+	text-align: center;
+	color: white;
+	font-family: Bahnschrift;
+	font-style: Semibold;
+	font-size: 20px;
+}
+
+#ti2{
+	text-align: center;
+	border-radius: 20px;
+	margin-left: 25px;
+	max-height: 270px;
+}
+
+#pa{
+	font-size: 25px;
+	font-family: georgia;
+	color: black;
+}
+
+#titulo{
+	text-align: center;
+	font-size: 35px;
+	font-family: Bahnschrift;
+	font-style: Semibold;
+	color: wheat;
+}
+
+aside div div h3 h4 h5{
+	font-size: 15px;
+	color:#B5B5B5;
+}
+
+aside div div p{
+	color: #B5B5B5;
+	font-size: 15px;
+	text-align: justify;
+	margin-top: 20px;
+}
+
+aside div img {
+	border-radius: 20px;
+	margin-left: 60px;
+	max-height: 270px;
+	text-align: center;
+	
+}
+
+section{
+	background-color: white;
+	
+}
+
+
+#bot{
+	background-color: black;
+	color: white;
+}
+
+footer{
+	background-color: beige;
+	color: black;
+	padding: 10px;
+	text-align: center;
+	font-family: georgia;
+}
+
+#imagen{
+	width: 200px;
+	margin-right: 10px;
+	float: left;
+	border-radius: 10px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: gray;
+	margin: 3px;
+}
+
+#imagen img{
+	border-radius: 10px;
+	width: 100%;
+}
+
+#imagen img:hover {
+	filter: grayscale(1);
+	transition-property: filter;
+	transition-duration: 1s;
+	width: 85%;
+	}
+
+#envideo {
+	text-align: center;
+	font-weight: bold;
+	border-radius: 5px;
+  cursor: pointer;
+}
+
+#envideo:hover {
+	background-color: gray;
+	color: white;
+}
+
+#nosotros{
+	text-align: center;
+	font-size: 35px;
+	font-family: Bahnschrift;
+	font-style: Semibold;
+	color: blueviolet;
+}
+
+#about {
+	text-align: center;
+	font-size: 18px;
+	font-family: Bahnschrift;
+	font-style: Semibold;
+	color: white;
+}
+
